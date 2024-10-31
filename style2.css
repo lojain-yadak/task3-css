@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    width: 90%;
+    padding:5% ;
+    height: 35%;
+}
+.child{
+width: 20%;
+border:2px solid lightgray;
+margin: 20px 0px 5px 50px;
+float:left;
+}
+.parent{
+    width: 100%;
+
+}
+.parent h2{
+    margin-left: 50px;
+    
+}
+.add{
+  padding: 10px;
+    background-color: rgba(0, 0, 254, 0.57);
+   margin-left:5px;
+   width: 80%;
+   float:left;
+   color: aliceblue;
+  border-color: rgba(0, 0, 254, 0.57);
+}  
+.fav{
+    padding:5px 10px 10px ;
+    background-color: aliceblue;
+    border-color: blue;
+   margin-left: 5px;
+    color:blue ;
+
+}
+h3{
+    margin-left: 10px;
+}
+p{
+    margin:5px 10px ;
+}
+h4{
+    float: left;
+    color: green;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h5{
+    text-decoration: line-through;
+    color: red;
+    margin-top:7px ;
+   
+}
